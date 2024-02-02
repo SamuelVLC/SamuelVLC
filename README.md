@@ -1,16 +1,19 @@
-### Hi there 👋
+👩‍💻 Computer Engineering Student 🖥️:
+Delving into the intricacies of computer engineering, mastering hardware and software symbiosis.
 
-<!--
-**SamuelVLC/SamuelVLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Research Maven 🧠:
+Embarking on an exciting journey into operating systems, specifically focused on the Nanvix kernel.
 
-Here are some ideas to get you started:
+🌐 Network Aficionado 🌐:
+Passionate about understanding the intricacies of computer networks, exploring the dynamics of data communication and networking protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Malware Analyst in the Making 🔬:
+Aspiring to delve into the world of cybersecurity, with a keen eye on future endeavors in malware research.
+
+📬 Connect with Me 📬:
+Feel free to reach out and connect!
+
+LinkedIn: [Your LinkedIn Profile]
+Twitter: [Your Twitter Handle]
+Email: [Your Email Address]
+#TechEnthusiast #OperatingSystems #NanvixKernel #ComputerNetworks #MalwareAnalysis #Cybersecurity #ComputerEngineering
