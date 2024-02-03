@@ -15,7 +15,6 @@ Aspiring to delve into the world of cybersecurity, with a keen eye on future end
 ## 📬 Connect with Me
 Feel free to reach out and connect!
 - [LinkedIn](https://www.linkedin.com/in/samuel-c-3a7026122/)
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
+- Email: [chiodisamuel@gmail.com]
 
 **#TechEnthusiast #OperatingSystems #NanvixKernel #ComputerNetworks #MalwareAnalysis #Cybersecurity #ComputerEngineering**
