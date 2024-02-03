@@ -18,3 +18,5 @@ Feel free to reach out and connect!
 - Email: [chiodisamuel@gmail.com]
 
 **#TechEnthusiast #OperatingSystems #NanvixKernel #ComputerNetworks #MalwareAnalysis #Cybersecurity #ComputerEngineering**
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelVLC&theme=nord_dark)|
