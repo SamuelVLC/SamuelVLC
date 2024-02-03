@@ -4,7 +4,7 @@
 Delving into the intricacies of computer engineering, mastering hardware and software symbiosis.
 
 ## Research Maven 🧠
-Embarking on an exciting journey into operating systems, specifically focused on the Nanvix kernel.
+Embarking on an exciting journey into operating systems, specifically focused on the Nanvix kernel project. Take a look! [Nanvix](https://github.com/nanvix/microkernel?tab=readme-ov-file)
 
 ## Networking Enthusiast 🌐
 Passionate about understanding the intricacies of computer networks, exploring the dynamics of data communication and networking protocols.
